@@ -1,0 +1,25 @@
+	@@@@/////#$#$#$## ONE TERNIMAL TO ANOTHER TERMINAL OR SERVER TO SERVER CONNTION #$#$#$#$//////@@@@@
+
+		----- AWS LINUX-EC2 INSTANCE CONNECT ONLINE // AT A TIME SAME INSTANCE CONNECCT SO MANY SERVERS -----
+
+	# apt-get update -y
+	# apt-get install nginx -y
+	# apt-get install vim -y
+	# rm -rf /var/www/html/index.nginx-debian.html    OR   mv /var/www/html/index.nginx-debian.html index.html 
+	# cd /var/www/html/ ;ls ; vi index.html            
+	# useradd -md /home/kumar -s /bin/bash kumar
+	# passwd kumar
+	# apt-get install openssh-client openssh-server -y       	asking geographicalaera:6  ,,,, timezone:44.
+	# which ssh
+	# which sshd
+	# apt-get install ssh -y
+	# apt-get install -y openssh-server
+	# apt-get install -y openssh-server
+	# service nginx status/stop/restart
+	# service sshd restart/stop/start
+	# ssh localhost
+	# /etc/init.d/ssh start
+	# hostname -i
+	# cat /etc/passwd
+	# userdel kumar
+	# sudo apt-get remove openssh-client openssh-server -y
