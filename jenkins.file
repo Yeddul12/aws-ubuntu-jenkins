@@ -54,3 +54,6 @@
 	$ sudo apt update -y
 	$ sudo apt-get install jenkins
 	$ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+		jenkins install in plugins and create username , password , email id and create ---- login jenkins 
+		-------  WELCOME TO JENKINS ------
+		
